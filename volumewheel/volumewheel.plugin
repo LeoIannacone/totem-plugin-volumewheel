@@ -1,0 +1,9 @@
+[Plugin]
+Loader=python3
+Module=volumewheel
+IAge=1
+Name=Volume Wheel
+Description=Control the Volume level with the mouse wheel
+Authors=Leo Iannacone <info@leoiannacone.com>
+Copyright=Copyright © 2014 Leo Iannacone
+Website=https://github.com/LeoIannacone/totem-plugin-volumewheel
